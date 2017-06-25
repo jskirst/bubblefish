@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Bubblefish helps you come up with a name for your next project or startup.}
   spec.description   = %q{Bubblefish uses various language APIs to take a single word as a starting point to give you similar words in various languages.}
-  spec.homepage      = "https://github.com/starfighterheavy/bubblefish"
+  spec.homepage      = "https://github.com/jskirst/bubblefish"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
