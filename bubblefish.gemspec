@@ -35,6 +35,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency('rdoc')
   spec.add_development_dependency('aruba')
   spec.add_dependency('methadone', '~> 1.9.5')
+  spec.add_dependency('unirest', '~> 1.1.2')
   spec.add_development_dependency('test-unit')
   spec.add_development_dependency('rspec', '~> 3')
 end
