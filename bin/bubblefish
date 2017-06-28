@@ -19,7 +19,7 @@ class App
                   "X-Mashape-Key" => ENV['MASHAPE_KEY'],
                   "Accept" => "application/json"
                 }
-    info response.body[type].join("\n")
+    info (response.body[type]['all'] || response.body[type]).join("\n")
   end
 
   description "one line description of your app"
