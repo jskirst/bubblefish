@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    bubblefish (0.1.0)
+    bubblefish (0.1.1)
       methadone (~> 1.9)
       unirest (~> 1.1)
 
@@ -19,6 +19,7 @@ GEM
     builder (3.2.3)
     childprocess (0.5.9)
       ffi (~> 1.0, >= 1.0.11)
+    coderay (1.1.1)
     contracts (0.16.0)
     cucumber (2.4.0)
       builder (>= 2.1.2)
@@ -37,9 +38,14 @@ GEM
     json (1.8.6)
     methadone (1.9.5)
       bundler
+    method_source (0.8.2)
     mime-types (1.25.1)
     multi_json (1.12.1)
     multi_test (0.1.2)
+    pry (0.10.4)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
     rake (10.5.0)
     rdoc (5.1.0)
     rest-client (1.6.9)
@@ -57,6 +63,7 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.6.0)
     rspec-support (3.6.0)
+    slop (3.6.0)
     thor (0.19.4)
     unirest (1.1.2)
       addressable (~> 2.3.5)
@@ -70,6 +77,7 @@ DEPENDENCIES
   aruba (= 0.14.2)
   bubblefish!
   bundler (~> 1.15)
+  pry (= 0.10.4)
   rake (~> 10.0)
   rdoc (~> 5.1)
   rspec (~> 3)

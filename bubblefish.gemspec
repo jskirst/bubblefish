@@ -26,6 +26,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency 'rdoc', '~> 5.1'
   spec.add_development_dependency 'aruba', '0.14.2'
+  spec.add_development_dependency 'pry', '0.10.4'
   spec.add_dependency 'methadone', '~> 1.9'
   spec.add_dependency 'unirest', '~> 1.1'
   spec.add_development_dependency 'rspec', '~> 3'
