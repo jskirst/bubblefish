@@ -1,28 +1,8 @@
 # Bubblefish
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/bubblefish`. To experiment with that code, run `bin/console` for an interactive prompt.
+[![Code Climate](https://codeclimate.com/github/starfighterheavy/bubblefish/badges/gpa.svg)](https://codeclimate.com/github/starfighterheavy/bubblefish)
 
-TODO: Delete this and the text above, and describe your gem
-
-## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'bubblefish'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install bubblefish
-
-## Usage
-
-TODO: Write usage instructions here
+Bubblefish is a [https://github.com/davetron5000/methadone](methadone) based terminal application that helps you search for words similar to a word that you supply - helpful when trying to come up with project, site, or app names.
 
 ## Development
 
