@@ -1,7 +1,7 @@
 # Bubblefish
 
 [![Code Climate](https://codeclimate.com/github/starfighterheavy/bubblefish/badges/gpa.svg)](https://codeclimate.com/github/starfighterheavy/bubblefish)
-[![Dependency Status](https://gemnasium.com/starfighterheavy/cucumber-sammies.svg)](https://gemnasium.com/starfighterheavy/bubblefish)
+[![Dependency Status](https://gemnasium.com/starfighterheavy/bubblefish.svg)](https://gemnasium.com/starfighterheavy/bubblefish)
 
 Bubblefish is a [https://github.com/davetron5000/methadone](methadone) based terminal application that helps you search for words similar to a word that you supply - helpful when trying to come up with project, site, or app names.
 
